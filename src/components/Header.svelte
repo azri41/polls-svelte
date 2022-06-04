@@ -1,6 +1,6 @@
 <header>
     <h1>
-        <img src="/img/logo.svg" alt="Poll Logo">
+        <img src="/img/logo2.png" alt="Poll Logo">
     </h1>
 </header>
 
@@ -14,6 +14,6 @@
         text-align: center;
     }
     img{
-        max-width: 180px;
+        max-width: 480px;
     }
 </style>
